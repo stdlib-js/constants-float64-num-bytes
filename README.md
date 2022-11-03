@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@esm/index.mjs';
+import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@v0.0.8-esm/index.mjs';
 ```
 
 #### FLOAT64_NUM_BYTES
@@ -61,7 +61,7 @@ var bool = ( FLOAT64_NUM_BYTES === 8 );
 <body>
 <script type="module">
 
-import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@esm/index.mjs';
+import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@v0.0.8-esm/index.mjs';
 
 console.log( FLOAT64_NUM_BYTES );
 // => 8
