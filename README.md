@@ -144,8 +144,8 @@ Macro for the size (in bytes) of a [double-precision floating-point number][ieee
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float16/num-bytes`][@stdlib/constants/float16/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a half-precision floating-point number.</span>
--   <span class="package-name">[`@stdlib/constants/float32/num-bytes`][@stdlib/constants/float32/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float16/num-bytes`][@stdlib/constants/float16/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a half-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/num-bytes`][@stdlib/constants/float32/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a single-precision floating-point number.</span>
 
 </section>
 
