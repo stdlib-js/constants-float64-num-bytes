@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@deno/mod.js';
+import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT64_NUM_BYTES
@@ -67,7 +67,7 @@ var bool = ( FLOAT64_NUM_BYTES === 8 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@deno/mod.js';
+import FLOAT64_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-bytes@v0.1.0-deno/mod.js';
 
 console.log( FLOAT64_NUM_BYTES );
 // => 8
